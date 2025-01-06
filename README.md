@@ -1,14 +1,12 @@
 # Portfolio Website  
 
 Welcome to the repository for my **Portfolio Website**! 🎉  
-This project showcases my skills, experiences, and projects as a web developer and writer.  
-
-![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Website+Preview)  
+This project showcases my skills, experiences, and projects as a web developer and writer.    
 
 ---
 
 ## 🚀 Live Preview  
-Check out the live version of my portfolio website here: [Portfolio Website](https://mahiamomo.github.io/Portfolio-Website/) *(Update with your actual link if deployed)*  
+Check out the live version of my portfolio website here: [Portfolio Website](https://mahiamomo.github.io/Portfolio-Website/) 
 
 ---
 
